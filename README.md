@@ -35,7 +35,7 @@ Dove: `g++` è il compilatore; `-03` attiva il massimo livello di ottimizzazione
 > Al termine dell'esecuzione, Il programma crea automaticamente tre diversi file:
 > - `table_points_threads.csv`: Lo speedup calcolato su dataset di dimensioni crescenti
 > - `table_dims_threads.csv`: Lo speedup per dimensioni crescenti
-> - `table_clusters_threads.csv`: Lo speedup variando il numero di cluster $K$
+> - `table_clusters_threads.csv`: Lo speedup variando il numero di cluster
 
 ## Fonti
 Il dettaglio teorico dell'algoritmo e i risultati dei test di performance sono consultabili qui:
