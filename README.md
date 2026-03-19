@@ -10,7 +10,7 @@ Questa implementazione sfrutta il parallelismo a livello di thread per velocizza
 3. L'aggiornamento della posizione dei centroidi.
 
 ## Prerequisiti
-Per compilare ed eseguire il file del progetto , è necessario avere installato:
+Per compilare ed eseguire il progetto [kmeans2.cpp](kmeans2.cpp), è necessario avere installato:
 1. Un compilatore C++ che supporti OpenMP (come `gcc` o `clang`).
 2. Libreria di OpenMP
 
