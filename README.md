@@ -31,7 +31,7 @@ g++ -O3 -fopenmp kmeans2.cpp -o kmeans_OpenMP
 
 ### 3. Eseguire il codice
 ```bash
-.\kmeans_omp.exe
+.\kmeans_OpenMP.exe
 ```
 
 > [!NOTE]
