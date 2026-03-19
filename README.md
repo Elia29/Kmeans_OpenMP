@@ -22,7 +22,7 @@ cd Kmeans-OpenMP
 ```
 ### 2. Compilare il codice
 ```bash
-g++ -O3 -fopenmp main.cpp -o kmeans_omp
+g++ -O3 -fopenmp kmeans2.cpp -o kmeans_omp
 ```
 ### 3. Eseguire il codice
 ```bash
